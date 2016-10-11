@@ -1,5 +1,6 @@
 body {
 	font-style: normal;
+	font-family: Verdana;
 	font-weight: 300;
 	background-color: #519674;
 	margin: 0;
@@ -9,6 +10,78 @@ h1, h3 {
 	font-style: normal;
 	color: white;
 }
+
+h1 {
+	text-align: center;
+}
+
+#wentz {
+	border: 5px dotted silver;
+	padding: 2em;
+}
+
+#undefeated {
+	border: 5px dotted silver;
+	padding: 2em;
+}
+
+#birds img {
+	max width: 100%;
+	display: block;
+	margin: 0 auto 0 auto;
+}
+
+main {
+	width: 40%;
+}
+
+aside {
+	width: 40%;
+}
+
+main, aside {
+	margin: 30px 3%;
+	float: left;
+	font-size: 0.875em;
+}
+
+#cox {
+	border: 5px dotted silver;
+	padding: 2em;
+}
+
+#doug {
+	border: 5px dotted silver;
+	padding: 2em;
+}
+
+#jordan {
+	border: 5px dotted silver;
+	padding: 2em;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
